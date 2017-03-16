@@ -1,0 +1,55 @@
+#robert {
+color: red;
+	text-align:center;
+	font-size:2em
+}
+h2 { 
+	color: rgb(66, 244, 241);
+	text-align: center;
+	font-size: 2.3em
+}
+
+nav {
+	text-align: center;
+	font-size: 1.5em;
+	link-color:white;
+	padding: 2px;
+}
+
+h1 {
+	text-align: center;
+	font-size:24;
+	color:red;
+}
+.foot {
+	font-size: 1.2em;
+	text-align: center;
+	color:red;
+}
+h3 {
+text-align:center;
+font-size:1.6em;
+color:rgb(66, 244, 241);
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+a:hover{
+color:red;
+}
+p.about {
+color:rgb(66, 244, 241);
+text-align:center;
+font-size:1.5em;
+  font-weight: normal;
+}
+p.caption {
+color:rgb(66, 244, 241);
+text-align:center;
+font-size: 1.2em
+}
