@@ -53,3 +53,18 @@ color:rgb(66, 244, 241);
 text-align:center;
 font-size: 1.2em
 }
+
+h4 {
+color:rgb(66, 244, 241);
+text-align:center;
+font-size: 1.3em;
+}
+
+di {
+font-size: 1.1em;
+text-align:left;
+}
+dd {
+font-size:.9em;
+text-align:left;
+}
