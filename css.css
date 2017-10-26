@@ -6,7 +6,10 @@
             background-color: grey;
         }
 html {background-attachment:fixed;
-background-color:rgb(244, 215, 66);
+<--background-color:rgb(244, 215, 66);
+    background-image:url(Images/porque%20image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .title{
     font-size:3em;
@@ -57,6 +60,7 @@ a:hover {
     background-color:white;
     box-shadow: 5px 5px 2.5px black;
     color: black;
+    padding: 20px;
 }
 .subtit{
     text-align: center;
