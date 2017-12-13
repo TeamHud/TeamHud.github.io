@@ -5,6 +5,13 @@
         a:hover {
             background-color: grey;
         }
+img {
+    width: 50%;
+    padding: 20px;
+    height: inherit;
+    
+    }
+
 html {background-attachment:fixed;
 <--background-color:rgb(244, 215, 66);
     background-image:url(Images/porque%20image.jpg);
